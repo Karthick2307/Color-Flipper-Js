@@ -3,6 +3,10 @@ file.txt
 secret.key
 
 # Ignore all files in a directory
-lengthConverted/
+lengthConverter/
 FD rate calculator/
 fahrenheitConverter/
+
+# Ignore all .log files
+index.html/
+script.js/
